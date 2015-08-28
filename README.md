@@ -1,2 +1,2 @@
 # webstorage
-webstorage wrapper 
+webstorage wrapper (ES6)
